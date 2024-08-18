@@ -1,0 +1,44 @@
+{
+  "users": [
+    {
+      "id": "8081",
+      "fname": "ger",
+      "lname": "mailla",
+      "email": "din@mail.com",
+      "password": "dindin4987",
+      "cpassword": "dindin4987"
+    },
+    {
+      "id": "b631",
+      "fname": "Geraldine",
+      "lname": "Mailla",
+      "email": "din123@mail.com",
+      "password": "dindin4987",
+      "cpassword": "dindin4987"
+    },
+    {
+      "id": "453e",
+      "fname": "turon",
+      "lname": "mailla",
+      "email": "turon@gmail.com",
+      "password": "turon2023",
+      "cpassword": "turon2023"
+    },
+    {
+      "id": "307b",
+      "fname": "gr",
+      "lname": "fg",
+      "email": "12@mail.com",
+      "password": "dindin4987",
+      "cpassword": "dindin4987"
+    },
+    {
+      "id": "651e",
+      "fname": "hgn",
+      "lname": "fg",
+      "email": "din@mail.com",
+      "password": "1234567",
+      "cpassword": "1234567"
+    }
+  ]
+}
